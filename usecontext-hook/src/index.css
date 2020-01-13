@@ -1,0 +1,9 @@
+.light {
+  background-color: ghostwhite;
+  color: indigo;
+}
+
+.dark {
+  background-color: indigo;
+  color: ghostwhite;
+}

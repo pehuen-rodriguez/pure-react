@@ -1,0 +1,9 @@
+.error-icon {
+  width: 20px;
+  display: inline-block;
+}
+
+.modal {
+  position: relative;
+  display: block;
+}
